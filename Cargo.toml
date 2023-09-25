@@ -1,0 +1,13 @@
+[package]
+name          = "mojilets"
+version       = "0.1.0"
+edition       = "2021"
+authors       = ["kanarus <kanarus786@gmail.com>"]
+documentation = "https://docs.rs/mojilets"
+homepage      = "https://crates.io/crates/mojilets"
+repository    = "https://github.com/kana-rus/mojilets"
+readme        = "README.md"
+license       = "MIT"
+description   = "Tools for character-level operations on String"
+keywords      = []
+categories    = []
